@@ -1,0 +1,27 @@
+ManifestFileVersion: 0
+CRC: 1378088814
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: 60264b2a6ad86b6af095335e806b3d08
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: c14c144446a0d5e7633ca1d79f4d7b01
+HashAppended: 0
+ClassTypes:
+- Class: 1
+  Script: {instanceID: 0}
+- Class: 4
+  Script: {instanceID: 0}
+- Class: 21
+  Script: {instanceID: 0}
+- Class: 48
+  Script: {instanceID: 0}
+- Class: 212
+  Script: {instanceID: 0}
+- Class: 213
+  Script: {instanceID: 0}
+Assets:
+- Assets/Resources/_avatar1.prefab
+Dependencies:
+- /Users/programsecondary/Developer/Learn/XIL_UnityResourceMgr_Test1/Assets/StreamingAssets/Mac/assets$resources$@textures.assets

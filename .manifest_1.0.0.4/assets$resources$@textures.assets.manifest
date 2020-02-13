@@ -1,0 +1,26 @@
+ManifestFileVersion: 0
+CRC: 1605203067
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: cf0326b75a10941544f6d1eddee61c65
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: ea5a42e0fd8ea905efa7aa926a3b8944
+HashAppended: 0
+ClassTypes:
+- Class: 28
+  Script: {instanceID: 0}
+- Class: 213
+  Script: {instanceID: 0}
+Assets:
+- Assets/Resources/@Textures/Food3.png
+- Assets/Resources/@Textures/Smashs.png
+- Assets/Resources/@Textures/BackgroundNavyGridSprite.png
+- Assets/Resources/@Textures/bk.png
+- Assets/Resources/@Textures/avatar1.png
+- Assets/Resources/@Textures/avatar2.png
+- Assets/Resources/@Textures/direction.png
+- Assets/Resources/@Textures/Food1.png
+- Assets/Resources/@Textures/Food2.png
+Dependencies: []
