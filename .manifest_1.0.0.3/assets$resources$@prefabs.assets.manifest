@@ -1,0 +1,35 @@
+ManifestFileVersion: 0
+CRC: 2883219962
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: a1be83b1ef372ee893fa3cba2d8224c9
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: 4bb89ec954547edeca534c2d72fc8abf
+HashAppended: 0
+ClassTypes:
+- Class: 1
+  Script: {instanceID: 0}
+- Class: 4
+  Script: {instanceID: 0}
+- Class: 20
+  Script: {instanceID: 0}
+- Class: 21
+  Script: {instanceID: 0}
+- Class: 48
+  Script: {instanceID: 0}
+- Class: 81
+  Script: {instanceID: 0}
+- Class: 114
+  Script: {fileID: 11500000, guid: 578a975ef89e8f64cb00e5e30cf6272e, type: 3}
+- Class: 212
+  Script: {instanceID: 0}
+- Class: 213
+  Script: {instanceID: 0}
+Assets:
+- Assets/Resources/@prefabs/MockeyAvatar.prefab
+- Assets/Resources/@prefabs/MainAvatar.prefab
+- Assets/Resources/@prefabs/Avatar.prefab
+Dependencies:
+- /Users/programsecondary/Developer/Learn/XIL_UnityResourceMgr_Test1/Assets/StreamingAssets/Mac/assets$resources$@textures.assets
